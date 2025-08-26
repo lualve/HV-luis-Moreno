@@ -3,6 +3,7 @@ html, body{
     width: 100%;
     margin: 0;
     background: rgb(43, 43, 245);
+
 }
 
 #hoja{
@@ -11,5 +12,10 @@ html, body{
     height: 99%;
     margin:3em auto;
     position:center;
-    width: 90%;
+    width: 80%;
+}
+#bajar{
+    color: red;
+    font-family: cursive;
+    text-align: center;
 }
